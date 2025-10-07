@@ -1,0 +1,9 @@
+sandbox-deposit-automation/
+├── .github/
+│   └── workflows/
+│       └── deposit-check.yml
+├── scripts/
+│   ├── creds_loader.py
+│   └── deposit_check.py
+├── .gitignore
+└── README.md
